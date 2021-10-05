@@ -1,4 +1,4 @@
-# pts_system
+# project-name
 
 ## Project setup
 ```
